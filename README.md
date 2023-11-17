@@ -16,7 +16,6 @@ _<h4 align="center">"We must become the change we want to see"._ — Mahatma Gan
 - Git
 - Golang
 - Common Programming Patterns
-- Model, View, Controller
 - Stretch goal of JavaScript for Front End
 
 ###### _last updated: November 17th, 2023_
