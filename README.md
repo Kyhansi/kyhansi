@@ -1,4 +1,4 @@
-<h2 align="center">B the change u want 2 see on earth. Work @ it for 5 mins a day.</h2>
+<h2 align="center">Be the change you want to see on earth. Work at it for 5 minutes a day.</h2>
 
 _<h4 align="center">"We must become the change we want to see"._ — Mahatma Gandhi</h4>
 
