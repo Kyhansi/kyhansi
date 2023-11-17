@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2 align="center">B the change u want 2 see on earth. Work @ it for 5 mins a day.</h2>
 
-<!--
-**Kyhansi/kyhansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_<h4 align="center">"We must become the change we want to see"._ — Mahatma Gandhi</h4>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I am Working On:
+- Become better than the day before
+- Always be a student
+- Become the change you want to see on Earth
+- Spread positivity at all costs
+
+<hr/>
+
+### Currently Learning:
+- Git
+- Golang
+- Common Programming Patterns
+- Model, View, Controller
+- Stretch goal of JavaScript for Front End
+
+###### _last updated: November 17th, 2023_
